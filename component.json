@@ -1,0 +1,10 @@
+{
+	"name": "restangular",
+	"description": "Restangular",
+	"dependencies": {
+		"jashkenas/underscore": "1.6.0"
+	},
+	"scripts": ["dist/restangular.js"],
+	"version": "1.3.1",
+	"main": "index.js"
+}
