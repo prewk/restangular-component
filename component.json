@@ -4,7 +4,7 @@
 	"dependencies": {
 		"jashkenas/underscore": "1.6.0"
 	},
-	"scripts": ["dist/restangular.js"],
+	"scripts": ["dist/restangular.js", "index.js"],
 	"version": "1.3.1",
 	"main": "index.js"
 }
