@@ -1,2 +1,2 @@
 var _ = require('underscore');
-require('dist/restangular.js');
+require('./dist/restangular.js');
